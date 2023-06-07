@@ -1,4 +1,4 @@
 baseURL = 'https://chipacu.github.io/aed-docs/'
 languageCode = 'es-ar'
-title = 'My New Hugo Site'
+title = '♛ Apuntes de chipaco | AED 2023'
 theme = 'hugo-book'
