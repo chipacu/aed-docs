@@ -1,0 +1,4 @@
+baseURL = 'https://chipacu.github.io/docs-aed'
+languageCode = 'es-ar'
+title = 'My New Hugo Site'
+theme = 'hugo-book'
