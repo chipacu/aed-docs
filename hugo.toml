@@ -1,4 +1,4 @@
-baseURL = 'https://chipacu.github.io/docs-aed/'
+baseURL = 'https://chipacu.github.io/aed-docs/'
 languageCode = 'es-ar'
 title = 'My New Hugo Site'
 theme = 'hugo-book'
