@@ -11,7 +11,7 @@ Aventúrate en esta página de documentación, donde el conocimiento y la valent
 
 {{< hint warning >}}
 **⚠️ ¡Tener en cuenta!**  
-Que este sítio **no se encuentra** relacionado a la cátedra, si bien su contenido se nutre de ésta, siempre va a ser una fuente de información terciaria, burdamente como, "Radio Pasillo 📢 98.3mhz".
+Este sítio **no se encuentra** relacionado a la cátedra, si bien su contenido está nutrido por ella, este siempre va a ser una fuente de información terciaria, burdamente conocido como "Radio Pasillo 📢 98.3mhz".
 {{< /hint >}}
 
 ## Secciones del sitio
@@ -36,7 +36,7 @@ En estos resúmenes épicos, se despliegan microartículos cargados de ideas pr�
 
 {{< columns >}}
 
-## Blog 📰
+## Blog (en proceso) 📰
 
 Nuestro blog será el faro de la actualización constante, donde hallarás noticias, anuncios, consejos útiles y todo lo relevante para triunfar en nuestra materia.
 

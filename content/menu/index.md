@@ -6,4 +6,30 @@ headless: true
 - [Nuestros Profesores]({{< relref "/docs/info-provechosa/profesores.md" >}})
 - [Modos y condiciones para vencer]({{< relref "/docs/info-provechosa/condiciones.md" >}})
 - [Links de Excalibur]({{< relref "/docs/info-provechosa/excalibur.md" >}})
-<br />
+
+- **Resúmenes Teoría**
+- Conceptos Iniciales
+  - [Concepto de Algorítmo]({{< relref "/docs/teoria/concept-iniciales/algoritmos.md" >}})
+  - [Proceso, Acción y Estado]({{< relref "/docs/teoria/concept-iniciales/proceso-accion-estado.md" >}})
+- [Pseudocódigo]({{< relref "/docs/teoria/pseudocodigo.md" >}})
+- *Elementos Básicos Algorítmos*
+  - [Tipos de Datos]({{< relref "/docs/teoria/tipos-datos/tipos-datos.md" >}})
+  - [Estructuras de Datos Simples]({{< relref "/docs/teoria/estructuras-datos-simples/estructuras-datos-simples.md" >}})
+  - [Operadores y Operandos]({{< relref "/docs/teoria/estructuras-datos-simples/estructuras-datos-simples.md" >}})
+  - [Prueba de Escritorio]({{< relref "/docs/teoria/estructuras-datos-simples/estructuras-datos-simples.md" >}})
+- [Estructuras de Control]({{< relref "/docs/teoria/estructuras-datos-simples/estructuras-datos-simples.md" >}})
+  - [Estructura Secuencial]({{< relref "/docs/teoria/estructuras-datos-simples/estructuras-datos-simples.md" >}})
+  - [Estructura Condicional]({{< relref "/docs/teoria/estructuras-datos-simples/estructuras-datos-simples.md" >}})
+  - [Estructuras Repetitivas]({{< relref "/docs/teoria/estructuras-datos-simples/estructuras-datos-simples.md" >}})
+- [Subacciones]({{< relref "/docs/teoria/estructuras-datos-simples/estructuras-datos-simples.md" >}})
+  - [Control de Ejecución]({{< relref "/docs/teoria/estructuras-datos-simples/estructuras-datos-simples.md" >}})
+  - [Elementos de las subacciones]({{< relref "/docs/teoria/estructuras-datos-simples/estructuras-datos-simples.md" >}})
+- [Funciones]({{< relref "/docs/teoria/estructuras-datos-simples/estructuras-datos-simples.md" >}})
+  - [Declaración de Funciones]({{< relref "/docs/teoria/estructuras-datos-simples/estructuras-datos-simples.md" >}})
+  - [Procedimientos]({{< relref "/docs/teoria/estructuras-datos-simples/estructuras-datos-simples.md" >}})
+- [Intro a Secuencias]({{< relref "/docs/teoria/estructuras-datos-simples/estructuras-datos-simples.md" >}})
+- *Estructuras de Datos Complejos*
+- [🙂 Concepto de Campo]({{< relref "/docs/teoria/estructuras-datos-simples/estructuras-datos-simples.md" >}})
+- [🫤 Registro]({{< relref "/docs/teoria/estructuras-datos-simples/estructuras-datos-simples.md" >}})
+- [☹️ Archivos]({{< relref "/docs/teoria/estructuras-datos-simples/estructuras-datos-simples.md" >}})
+- [😪 Archivos Indexados]({{< relref "/docs/teoria/estructuras-datos-simples/estructuras-datos-simples.md" >}})
