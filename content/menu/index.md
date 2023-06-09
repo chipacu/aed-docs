@@ -15,8 +15,9 @@ headless: true
 - *Elementos Básicos Algorítmos*
   - [Tipos de Datos]({{< relref "/docs/teoria/tipos-datos/tipos-datos.md" >}})
   - [Estructuras de Datos Simples]({{< relref "/docs/teoria/estructuras-datos-simples/estructuras-datos-simples.md" >}})
-  - [Operadores y Operandos]({{< relref "/docs/teoria/estructuras-datos-simples/estructuras-datos-simples.md" >}})
-  - [Prueba de Escritorio]({{< relref "/docs/teoria/estructuras-datos-simples/estructuras-datos-simples.md" >}})
+  - [Operadores y Operandos]({{< relref "/docs/teoria/operadores-operandos.md" >}})
+  - [Acciones Símples]({{< relref "/docs/teoria/acciones-simples.md" >}})
+  - [Prueba de Escritorio]({{< relref "/docs/teoria/prueba-escritorio.md" >}})
 - [Estructuras de Control]({{< relref "/docs/teoria/estructuras-datos-simples/estructuras-datos-simples.md" >}})
   - [Estructura Secuencial]({{< relref "/docs/teoria/estructuras-datos-simples/estructuras-datos-simples.md" >}})
   - [Estructura Condicional]({{< relref "/docs/teoria/estructuras-datos-simples/estructuras-datos-simples.md" >}})
