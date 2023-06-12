@@ -1,3 +1,8 @@
+---
+title: Pseudocódigo
+weight: 4
+---
+
 # Pseudocódigo
 
 Los algoritmos trascienden a los lenguajes de programación, pudiendose representar de diversas maneras. En esta cursada, solo nos centraremos en el *pseudocódigo*, pero pueden investigar sobre las demás formas por su cuenta.
@@ -39,6 +44,6 @@ stateDiagram-v2
 - Condicionales
 - Repetitivas
 
-{{< expand "Ventajas del pseudocódigo" "..." >}}
+{{< expand "Pseudocódigo vs Diagramas de Flujo" "..." >}}
 El uso de Pseudocódigo en lugar de Diagramas de Flujo tiene ventajas, como la capacidad de representar de manera sencilla operaciones repetitivas complejas. Además, es fácil convertir una solución en Pseudocódigo a un programa en cualquier lenguaje de programación. Siguiendo las reglas, se pueden visualizar claramente los niveles de cada operación.
 {{< /expand >}}

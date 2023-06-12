@@ -1,4 +1,11 @@
+---
+title: Condiciones para Vencer
+weight: 2
+---
+
 # Modos y Condiciones para vencer
+
+![skull-aprobado](/aed-docs/images/skull-gradcap-berserk.jpg)
 
 ## Modo de evaluarnos
 
@@ -24,8 +31,8 @@ Y en cuanto a la **aprobación de la cursada**, tendrás las mismas condiciones 
 
 ## En caso de pérdida de regularidad
 
-Conforme a la Ordenanza N° 6908-U, en circunstancias excepcionales, como en el notable incremento de estudiantes recursantes en esta materia, la Secretaría Ausedémica ha dispuesto una medida extraordinaria para aquellos que no hayan cumplido con los requisitos mínimos.
+Conforme a la Ordenanza N° 6908-U, en circunstancias excepcionales, como en el notable incremento de estudiantes recursantes en esta materia, la Secretaría Auledémica ha dispuesto una medida extraordinaria para aquellos que no hayan cumplido con los requisitos mínimos.
 
 Para solicitar la aplicación de esta medida excepcional, se requiere completar el siguiente formulario de manera precisa y detallada:
 
-{{< button target="_blank" href="https://www.youtube.com/shorts/MCXCprrPYSQ" >}}Solicitud de Regularidad{{< /button >}}
+{{< button target="_blank" href="https://incorporacion.ejercito.mil.ar/" >}}Solicitud de Regularidad{{< /button >}}

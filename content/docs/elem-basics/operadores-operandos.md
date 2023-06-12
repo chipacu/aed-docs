@@ -1,3 +1,8 @@
+---
+title: Operadores y Operandos
+weight: 3
+---
+
 # Operadores y Operandos
 
 Los programas de computadora se basan en la realización de muchas operaciones aritméticas y matemáticas de diversas complejidades.
@@ -23,7 +28,7 @@ Es en síntesis, una secuencia de **operadores y operandos** que realizan un **c
 
 Hay varios tipos de operadores disponibles:
 
-## Operador de Asignación
+## Asignación
 
 Es el más básico y se utiliza para asignar un valor a una variable. En muchos lenguajes de programación, se representa con el símbolo `:=`. Este operador indica que el valor a la derecha de `:=` será asignado a la variable que está a la izquierda del mismo.
 
@@ -36,7 +41,7 @@ precio := 25.45
 
 Acordate que la acción de asignar es destructiva 💣, ya que el valor que tuviera la variable antes de la asignación se pierde y se reemplaza por el nuevo valor.
 
-## Operadores Aritméticos
+## Aritméticos
 
 Son operadores binarios, lo que significa que requieren dos operandos para funcionar. Estos operadores realizan las **operaciones aritméticas básicas** y utilizan operandos numéricos para proporcionar resultados matemáticos.
 
@@ -50,7 +55,7 @@ Son operadores binarios, lo que significa que requieren dos operandos para funci
 | div      | Cociente División Entera |
 | **       | Porenciación             |
 
-## Operadores Relacionales
+## Relacionales
 
 Se utilizan para realizar comparaciones de igualdad, desigualdad y relaciones de menor o mayor entre valores. Estos operadores son utilizados para expresar condiciones en algoritmos y proporcionan resultados lógicos.
 
@@ -65,12 +70,12 @@ Se utilizan para realizar comparaciones de igualdad, desigualdad y relaciones de
 
 {{< hint info >}}
 **💡 Trucazo:**
-Para recordar cómo funcionan los operadores de menor y mayor se puede imaginar que el símbolo se asemeja a un pico de pato y que los ojos del pato están en el punto donde se cruzan las líneas `''< cuak!`. Recordá que el pato siempre mira al operando más grande `🟡🔵 >''`. Este truco puede ser útil si alguien pasó la primaria por acomodo o debido a la pandemia y no está familiarizado con estos operadores.
+Para recordar cómo funcionan los operadores de menor y mayor se puede imaginar que el símbolo se asemeja a un pico de pato y que los ojos del pato están en el punto donde se cruzan las líneas `''< cuak!`. Recordá que el pato siempre intenta comerse al operando más grande `🟡🔵 >''`. Este truco puede ser útil si alguien pasó la primaria por acomodo o debido a la pandemia y no está familiarizado con estos operadores.
 {{< /hint >}}
 
 Acordate también que no existe el operador `≠`.
 
-# Operadores Lógicos
+## Lógicos
 
 Los operadores lógicos, nos permiten tomar decisiones basadas en la
 verdad y la falsedad de las proposiciones. Nos guían a través del
@@ -79,9 +84,9 @@ con discernimiento.
 
 |    Operador   |     Descripción     |  Uso  |
 |:-------------:|---------------------|:-----:|
-| AND \| ᴧ \| Y | Operador lógico AND | a Y b |
-| OR \| ᴠ \| O  | Operador lógico OR  | a O b |
-|       NO      | Operador de Negación| a NO b|
+| AND \| ᴧ \| Y | Operador lógico AND | a `y` b |
+| OR \| ᴠ \| O  | Operador lógico OR  | a `o` b |
+|       NO      | Operador de Negación| `no(a)`|
 
 Y las tablas de verdad de los mismos:
 
@@ -108,7 +113,7 @@ Y las tablas de verdad de los mismos:
 {{< /tab >}}
 {{< tab "Negación" >}}
 
-|     A    |   `No(A)`  |
+|     A    |   `no(A)`  |
 |:--------:|:--------:|
 | Falso ❌  | Verdad ✔ |
 | Verdad ✔ | Falso ❌  |
@@ -118,7 +123,7 @@ Y las tablas de verdad de los mismos:
 
 ## Prioridad de los Operadores
 
-La precedencia (orden de resolución) funciona similar al de las matemáticas:
+La precedencia (orden de resolución) funciona similar que en matemáticas:
 
 | Operadores           | Descripción                                                |
 |----------------------|------------------------------------------------------------|

@@ -1,3 +1,8 @@
+---
+title: Prueba de Escritorio
+weight: 6
+---
+
 # Prueba de escritorio
 
 Es una forma de verificar la precisión y efectividad de un algoritmo mediante la **simulación manual de su ejecución** con **datos de entrada predefinidos**.

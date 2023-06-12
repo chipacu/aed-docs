@@ -1,6 +1,13 @@
+---
+title: Nuestros Profesores
+weight: 1
+---
+
 # Nuestros Profesores
 
-¡Honrad a aquellos que nos guían con sabiduría y experiencia!
+![teachers](/aed-docs/images/teacher-berserk.jpg)
+
+¡Honrad a aquellos que os guían con sabiduría y experiencia!
 
 {{< tabs "uniqueid" >}}
 {{< tab "Teoría" >}}

@@ -1,3 +1,8 @@
+---
+title: Estructuras de Datos Simples
+weight: 2
+---
+
 # Estructuras de Datos Simples
 
 A la hora de elaborar un programa, **es necesario utilizar datos**. Por ejemplo, si queremos calcular el área de un rectángulo, debemos almacenar en la memoria de la computadora los valores de la base y la altura para luego multiplicarlos y obtener el área.
@@ -37,7 +42,7 @@ Antes de asignarle un valor, debemos definirlas de la siguiente manera:
     “contpalimpar” 👍
 
 - Y también…
-    {{< details title="Letra chica" open=false >}}
+    {{< details title="5 detalles" open=false >}}
 
 - No pueden iniciar con números.
 

@@ -1,3 +1,8 @@
+---
+title: Proceso, Acción y Estado
+weight: 1
+---
+
 # Proceso, Acción y Estado
 
 ## Proceso
@@ -24,74 +29,31 @@ Puede parecer contradictorio, pero "construir una casa" es una acción que está
 
 Las acciones se dividen en dos tipos: 
 
-- simples, que se pueden hacer directamente.
-- complejas, que requieren descomponerse en acciones más simples.
+- **Simples**, que se pueden hacer directamente.
+- **Complejas**, que requieren descomponerse en acciones más simples.
 
 La percepción de lo que es simple o complejo varía de una persona a otra y depende de sus habilidades y del enfoque que le den al problema.
 
 ### Clasificación de Acciones
 
-A lo largo de nuestro viaje por esta materia, desvelaremos los secretos de estas acciones. No obstante, debes comprender cuándo desatar cada tipo de acción en el momento preciso, es de vital importancia.
+A lo largo de nuestro viaje por esta materia, desvelaremos los secretos de estas acciones. No obstante, debes comprender cuándo emplear cada tipo de acción en el momento preciso, eso será de vital importancia.
 
 {{< mermaid >}}
 stateDiagram-v2
     Acciones: Acciones
     Acciones --> Simples
     Simples: Simples
-    Simples --> Asignación
-    Asignación: Asignación
-    Asignación --> Expresión
-    Expresión: Expresión
-    Expresión --> Incrementales
-    Incrementales: Incrementales
-
-    Incrementales --> Contador
-    Contador: Contador
-    Incrementales --> Acumulador
-    Acumulador: Acumulador
-
-    Expresión --> Algebraicas
-    Algebraicas: Algebraicas
-    Expresión --> Funcionales
-    Funcionales: Funcionales
-
-    Asignación --> Pura
-    Pura: Pura
-
-    Simples --> AcciónElemental
-    AcciónElemental: Acción Elemental
-
-
 
     Acciones --> Estructuradas
     Estructuradas: Estructuradas
-    Estructuradas --> Cíclicas
-    Cíclicas: Cíclicas
-    Cíclicas --> Pretest
-    Pretest: Pre-test
-    Cíclicas --> Posttest
-    Posttest: Post-test
-    Cíclicas --> Manejadaporcontador
-    Manejadaporcontador: Manejada por contador
-
-    Estructuradas --> Condicionales
-    Condicionales: Condicionales
-    Condicionales --> CondiSimples
-    CondiSimples: Simples
-    Condicionales --> Alternativos
-    Alternativos: Alternativos
-    Condicionales --> SelecciónMúltiple
-    SelecciónMúltiple: Selección Múltiple
-
-    Estructuradas --> Acciónconnombre
-    Acciónconnombre: Acción con nombre
   
 {{< /mermaid >}}
 
-Aunque parezca abrumador, es crucial presentar todas las acciones en su conjunto para tener una visión global y comprensiva. De todas formas, voy a separarlas en dos grupos para que se puedan ver mejor. Comenzaré mostrando las simples:
+Comenzaremos a mostrar las simples:
 
 {{< mermaid >}}
 stateDiagram-v2
+    direction LR
     Simples: Simples
     Simples --> Asignación
     Asignación: Asignación
@@ -118,10 +80,12 @@ stateDiagram-v2
   
 {{< /mermaid >}}
 
-Y ahora las complejas o estructuradas:
+Y ahora las complejas/estructuradas:
 
 {{< mermaid >}}
+
 stateDiagram-v2
+    direction LR
     Estructuradas: Estructuradas
     Estructuradas --> Cíclicas
     Cíclicas: Cíclicas
@@ -140,7 +104,7 @@ stateDiagram-v2
     Alternativos: Alternativos
     Condicionales --> SelecciónMúltiple
     SelecciónMúltiple: Selección Múltiple
-
+    
     Estructuradas --> Acciónconnombre
     Acciónconnombre: Acción con nombre
   
