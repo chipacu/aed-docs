@@ -5,7 +5,7 @@ weight: 4
 
 # Pseudocódigo
 
-![recipe](/aed-docs/images/retro-notepad.jpg)
+![lapiz y papel](/aed-docs/images/retro-notepad.jpg)
 
 Los algoritmos trascienden a los lenguajes de programación, pudiendose representar de diversas maneras. En esta cursada, solo nos centraremos en el *pseudocódigo*, pero pueden investigar sobre las demás formas por su cuenta.
 

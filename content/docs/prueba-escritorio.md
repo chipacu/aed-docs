@@ -5,7 +5,7 @@ weight: 6
 
 # Prueba de escritorio
 
-![barrow](/aed-docs/images/wheelbarrow.jpg)
+![carretilla a las chapas](/aed-docs/images/wheelbarrow.jpg)
 
 Es una forma de verificar la precisión y efectividad de un algoritmo mediante la **simulación manual de su ejecución** con **datos de entrada predefinidos**.
 

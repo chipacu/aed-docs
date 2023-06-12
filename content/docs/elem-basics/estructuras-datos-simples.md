@@ -5,7 +5,7 @@ weight: 2
 
 # Estructuras de Datos Simples
 
-![recipe](/aed-docs/images/archiver.jpg)
+![despelote de archivos](/aed-docs/images/archiver.jpg)
 
 A la hora de elaborar un programa, **es necesario utilizar datos**. Por ejemplo, si queremos calcular el área de un rectángulo, debemos almacenar en la memoria de la computadora los valores de la base y la altura para luego multiplicarlos y obtener el área.
 

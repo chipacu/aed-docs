@@ -7,6 +7,10 @@ type: docs
 
 ![banner](/aed-docs/banner.jpg)
 
+Saludos, soy Daniel Tossutti, aunque me llaman chipaco. Si bien bromeo con que estos apuntes son de contrabando, quiero aclarar que su contenido es simplemente una recopilación e interpretación de los conceptos presentados en la cursada.
+
+Nada, espero que te sirva, tiene una tematica medio de rol, arrancamos?
+
 Aventúrate en esta página de documentación, donde el conocimiento y la valentía se entrelazan. Aquí hallarás todo lo que necesitas para conquistar la materia de Algoritmos y alcanzar la grandeza.
 
 {{< hint warning >}}
@@ -14,7 +18,7 @@ Aventúrate en esta página de documentación, donde el conocimiento y la valent
 Este sítio **no se encuentra** relacionado a la cátedra, si bien su contenido está nutrido por ella, este siempre va a ser una fuente de información terciaria, burdamente conocido como "Radio Pasillo 98.3mhz".
 {{< /hint >}}
 
-¡Explora la barra lateral izquierda para encontrar las secciones del sitio! Además, en cada página tendrás una tabla de contenido a la derecha para navegar más rápido.
+¡Explora la barra lateral izquierda para encontrar las secciones del sitio! Además, en cada página tendrás una tabla de contenido a la derecha para desplazarte más rápido.
 
 ## Información provechosa
 

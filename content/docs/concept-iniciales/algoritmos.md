@@ -3,9 +3,9 @@ title: Concepto de Algortmos
 weight: 1
 ---
 
-![recipe](/aed-docs/images/recipe.jpg)
-
 # Concepto de Algorítmos
+
+![receta](/aed-docs/images/recipe.jpg)
 
 En un mundo digital cada vez más complejo, los algoritmos emergen como poderosas secuencias de instrucciones y reglas que desbloquean las puertas del conocimiento, trazando caminos que resuelven problemas y moldean nuestras experiencias.
 

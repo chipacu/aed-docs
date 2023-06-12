@@ -1,6 +1,6 @@
 baseURL = 'https://chipacu.github.io/aed-docs/'
 languageCode = 'es-ar'
-title = '♛ Apuntes de chipaco | AED 2023 K1.6'
+title = 'Contraband Notes | AED 23 K1.6'
 theme = 'hugo-book'
 
 [params]

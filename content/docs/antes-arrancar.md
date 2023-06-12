@@ -7,6 +7,8 @@ weight: 2
 
 ![esperando ando](/aed-docs/images/waiting-berserk.jpg)
 
+Dejame darte algunos consejos, che. No sé cuánto te sirvan, porque, te cuento que es la primera vez que estoy cursando esta materia (me cambié de carrera), y hasta ahora no la aprobé. Simplemente creo que estos consejos pueden serte útiles para adaptarte más rápido, sobre todo considerando los momentos complicados al principio del cursado. Seguramente, a medida que avance, vaya agregando más, si te sabes alguno, no dudes en compartirlo.
+
 ## Preparándote para la Programación
 
 Antes de arrancar a estudiar y familiarizarnos con los conceptos fundamentales, es recomendable comenzar a familiarizarse con la **escritura de texto** plano.
@@ -21,15 +23,15 @@ El Block de Notas si bien sirve para lo que se busca, es muy básico, ineficient
 
 ![no uses notepad](/aed-docs/images/notepad.jpg)
 
-Entre las opciones más populares, [**Visual Studio Code**](https://code.visualstudio.com/) (no confundir con Visual Studio). Este potente editor de código te brindará una experiencia de escritura cómoda y ordenada, aprenderlo te servirá en toda tu carrera.
+Entre las opciones más populares está, [**Visual Studio Code**](https://code.visualstudio.com/) (no confundir con Visual Studio). Este potente editor de código te brindará una experiencia de escritura cómoda y ordenada, aprenderlo te servirá en toda tu carrera.
 
 {{< button target="_blank" href="https://code.visualstudio.com/" >}}🧑‍💻 Descargar VSCode{{< /button >}}
 
 ## Transformá la Frustración en Resultados
 
-Recordá que **la frustración es parte del proceso** de aprendizaje y en la programación eso importa mucho. Aprender a manejarla de manera efectiva y convertirla en motivación es fundamental para alcanzar el éxito.
+Recordá que **la frustración es parte del proceso** de aprendizaje y en algorítmos eso importa mucho. Aprender a manejarla de manera efectiva y convertirla en motivación es fundamental para alcanzar el éxito.
 
-¡La gratificación a largo plazo es mejor que la gratificación a corto!
+¡La gratificación a largo se siente más rica que la gratificación a corto!
 
 ## Si vas mal en teoría, metete a la práctica, y viceversa
 
