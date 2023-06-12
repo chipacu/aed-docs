@@ -1,0 +1,108 @@
+<!doctype html><html lang=es-ar dir=ltr><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta name=description content="Condicionales # Hasta este punto, los algoritmos que hemos definido se ejecutan de manera secuencial, es decir, una sentencia después de otra. Esta forma de programación es adecuada para programas simples.
+flowchart LR START:::hidden --> accion1 accion1[Acción 1] accion1 --> accion2 accion2[Acción 2] accion2 --> STOP:::hidden classDef hidden display: none; ACCION Ejemplo1 ES AMBIENTE a,doble: entero PROCESO ESCRIBIR(“Ingrese el número: ”) LEER(a) doble := a * 2 ESCRIBIR(“Resultado es: ”,doble) FIN_ACCION Sin embargo, para resolver problemas más complejos, es necesario tener la capacidad de controlar qué sentencias se ejecutan y cuándo."><meta name=theme-color content="#FFFFFF"><meta name=color-scheme content="light dark"><meta property="og:title" content="Condicionales"><meta property="og:description" content="Condicionales # Hasta este punto, los algoritmos que hemos definido se ejecutan de manera secuencial, es decir, una sentencia después de otra. Esta forma de programación es adecuada para programas simples.
+flowchart LR START:::hidden --> accion1 accion1[Acción 1] accion1 --> accion2 accion2[Acción 2] accion2 --> STOP:::hidden classDef hidden display: none; ACCION Ejemplo1 ES AMBIENTE a,doble: entero PROCESO ESCRIBIR(“Ingrese el número: ”) LEER(a) doble := a * 2 ESCRIBIR(“Resultado es: ”,doble) FIN_ACCION Sin embargo, para resolver problemas más complejos, es necesario tener la capacidad de controlar qué sentencias se ejecutan y cuándo."><meta property="og:type" content="article"><meta property="og:url" content="https://chipacu.github.io/aed-docs/docs/estruc-control/condicionales/"><meta property="article:section" content="docs"><title>Condicionales | Contraband Notes | AED 23 K1.6</title><link rel=manifest href=/aed-docs/manifest.json><link rel=icon href=/aed-docs/favicon.png type=image/x-icon><link rel=stylesheet href=/aed-docs/book.min.4f0117e74e5337280f18eb9641eae520cb4b25adcf5dd64fafad4664145a5957.css integrity="sha256-TwEX505TNygPGOuWQerlIMtLJa3PXdZPr61GZBRaWVc=" crossorigin=anonymous><script defer src=/aed-docs/flexsearch.min.js></script>
+<script defer src=/aed-docs/en.search.min.95dc647084ec8c9b18757344df83acf40e0c7a487edf4707e32d06ea4340e429.js integrity="sha256-ldxkcITsjJsYdXNE34Os9A4Mekh+30cH4y0G6kNA5Ck=" crossorigin=anonymous></script></head><body dir=ltr><input type=checkbox class="hidden toggle" id=menu-control>
+<input type=checkbox class="hidden toggle" id=toc-control><main class="container flex"><aside class=book-menu><div class=book-menu-content><nav><h2 class=book-brand><a class="flex align-center" href=/aed-docs/><span>Contraband Notes | AED 23 K1.6</span></a></h2><div class=book-search><input type=text id=book-search-input placeholder=Search aria-label=Search maxlength=64 data-hotkeys=s/><div class="book-search-spinner hidden"></div><ul id=book-search-results></ul></div><ul><li><span>Información Provechosa</span><ul><li><a href=/aed-docs/docs/info-provechosa/profesores/>Nuestros Profesores</a></li><li><a href=/aed-docs/docs/info-provechosa/condiciones/>Condiciones para Vencer</a></li><li><a href=/aed-docs/docs/info-provechosa/excalibur/>Links de Excalibur</a></li></ul></li><li><a href=/aed-docs/docs/antes-arrancar/>Antes de Arrancar</a></li><li><input type=checkbox id=section-5128673a3032c518cf23aa1c6fdb2587 class=toggle>
+<label for=section-5128673a3032c518cf23aa1c6fdb2587 class="flex justify-between"><a role=button>Conceptos Iniciales</a></label><ul><li><a href=/aed-docs/docs/concept-iniciales/algoritmos/>Concepto de Algortmos</a></li><li><a href=/aed-docs/docs/concept-iniciales/proceso-accion-estado/>Proceso, Acción y Estado</a></li></ul></li><li><a href=/aed-docs/docs/pseudocodigo/>Pseudocódigo</a></li><li><input type=checkbox id=section-84f7068cdb28f4f317f233affb6a99d1 class=toggle>
+<label for=section-84f7068cdb28f4f317f233affb6a99d1 class="flex justify-between"><a role=button>Elementos Básicos Algorítmos</a></label><ul><li><a href=/aed-docs/docs/elem-basics/tipos-datos/>Tipos de Datos</a></li><li><a href=/aed-docs/docs/elem-basics/estructuras-datos-simples/>Estructuras de Datos Simples</a></li><li><a href=/aed-docs/docs/elem-basics/operadores-operandos/>Operadores y Operandos</a></li><li><a href=/aed-docs/docs/elem-basics/entrada-salida/>Entrada y Salida de Datos</a></li><li><a href=/aed-docs/docs/elem-basics/estructura-pseudo/>Estructura Básica Pseudocódigo</a></li></ul></li><li><a href=/aed-docs/docs/prueba-escritorio/>Prueba de Escritorio</a></li><li><input type=checkbox id=section-bcd139552a17366a5f92c053ee91281b class=toggle checked>
+<label for=section-bcd139552a17366a5f92c053ee91281b class="flex justify-between"><a role=button>Estructuras de Control</a></label><ul><li><a href=/aed-docs/docs/estruc-control/condicionales/ class=active>Condicionales</a></li><li><a href=/aed-docs/docs/estruc-control/repetitivas/>Repetitivas</a></li></ul></li></ul></nav><script>(function(){var e=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(){localStorage.setItem("menu.scrollTop",e.scrollTop)}),e.scrollTop=localStorage.getItem("menu.scrollTop")})()</script></div></aside><div class=book-page><header class=book-header><div class="flex align-center justify-between"><label for=menu-control><img src=/aed-docs/svg/menu.svg class=book-icon alt=Menu></label>
+<strong>Condicionales</strong>
+<label for=toc-control><img src=/aed-docs/svg/toc.svg class=book-icon alt="Table of Contents"></label></div><aside class="hidden clearfix"><nav id=TableOfContents><ul><li><a href=#alternativo-simple>Alternativo Simple</a></li><li><a href=#alternativo-doble>Alternativo Doble</a></li><li><a href=#alternativo-múltiple>Alternativo Múltiple</a></li></ul></nav></aside></header><article class=markdown><h1 id=condicionales>Condicionales
+<a class=anchor href=#condicionales>#</a></h1><p><img src=/aed-docs/images/two-way-path.jpg alt="two way path"></p><p>Hasta este punto, los algoritmos que hemos definido se ejecutan de manera <strong>secuencial</strong>, es decir, una sentencia después de otra. Esta forma de programación es adecuada para programas simples.</p><script src=/aed-docs/mermaid.min.js></script>
+<script>mermaid.initialize({theme:"dark"})</script><p class=mermaid>flowchart LR
+START:::hidden --> accion1
+accion1[Acción 1]
+accion1 --> accion2
+accion2[Acción 2]
+accion2 --> STOP:::hidden
+classDef hidden display: none;</p><pre tabindex=0><code>ACCION Ejemplo1 ES
+AMBIENTE
+    a,doble: entero
+PROCESO
+    ESCRIBIR(“Ingrese el número: ”)
+    LEER(a)
+    doble := a * 2
+    ESCRIBIR(“Resultado es: ”,doble)
+FIN_ACCION
+</code></pre><p>Sin embargo, para resolver problemas más complejos, es necesario tener la capacidad de controlar qué sentencias se ejecutan y cuándo. El hecho de que las acciones se ejecuten secuencialmente implica que nunca se ejecutará más de una acción al mismo tiempo.</p><p>Las <strong>estructuras selectivas</strong>, también conocidas como estructuras de decisión o alternativas, se utilizan para tomar decisiones lógicas.</p><p>La estructura condicional es útil cuando cuando hay diferentes alternativas que dependen de la evaluación de una condición específica.</p><p class=mermaid>flowchart TB
+START:::hidden --> accion1
+accion1[Acción 1]
+accion1 --> accion2
+accion2[Acción 2]
+accion2 --> condic1
+condic1{Condición}
+accion3[Acción 3]
+accion4[Acción 4]
+condic1-->|No|accion3
+condic1-->|Si|accion4
+accion3 --> STOP:::hidden
+accion4 --> STOP2:::hidden
+classDef hidden display: none;</p><h2 id=alternativo-simple>Alternativo Simple
+<a class=anchor href=#alternativo-simple>#</a></h2><p>La estructura condicional más simple es aquella que permite implementar acciones condicionales de la siguiente manera:</p><ol><li>Si una determinada condición <strong>se cumple</strong>, se ejecutan una serie de instrucciones y luego se continúa con el flujo del programa.</li><li>Si la condición <strong>NO se cumple</strong>, las instrucciones no se ejecutan y se sigue adelante.</li></ol><p>Una vez evaluada la expresión condicional, el programa recupera su flujo secuencial y continúa ejecutando las instrucciones siguientes.</p><pre tabindex=0><code>ACCION Ejemplo2 ES
+AMBIENTE
+    a:entero
+PROCESO
+    ESC(“Ingrese el número: ”)
+    LEER(a)
+    SI a &gt; 0 ENTONCES:
+        ESCRIBIR(“El nro. es positivo”)
+    FIN_SI
+FIN_ACCION
+</code></pre><h2 id=alternativo-doble>Alternativo Doble
+<a class=anchor href=#alternativo-doble>#</a></h2><p>La estructura condicional alternativa doble permite implementar condicionales en los que hay dos acciones alternativas:</p><ol><li>Si <strong>se cumple</strong> una determinada condición, se ejecuta un bloque de instrucciones (bloque 1).</li><li>Si la condición <strong>NO se cumple</strong>, se <strong>ejecuta otro bloque</strong> de instrucciones (bloque 2).</li></ol><pre tabindex=0><code>ACCION Ejemplo3 ES
+AMBIENTE
+    A,B:ENTERO
+PROCESO
+    ESC(“Ingrese el primer número: ”), LEER(A)
+    ESC(“Ingrese el segundo número: ”), LEER(B)
+    SI A &gt; B ENTONCES
+        ESC(A,“es mayor que “,B)
+    SINO
+        ESC(A,“NO es mayor que “,B)
+    FIN_SI
+FIN_ACCION
+</code></pre><blockquote class="book-hint info"><p><strong>💁‍♂️ Anidar Condicionales en forma de Cascada</strong><br>Si una condición no se cumple, se puede utilizar el bloque &ldquo;sino&rdquo; para definir otro condicional. Esto nos permite crear estructuras más complejas y tomar decisiones adicionales en función de diferentes condiciones.</p><pre tabindex=0><code>SI Falso ENTONCES
+    ESC(&#34;Esto no va a pasar&#34;)
+SINO
+    SI Falso ENTONCES
+        ESC(&#34;Esto no va a pasar&#34;)
+    SINO
+        SI Falso ENTONCES
+            ESC(&#34;Esto no va a pasar&#34;)
+        SINO
+            ∞
+        FIN_SI
+    FIN_SI
+FIN_SI
+</code></pre></blockquote><h2 id=alternativo-múltiple>Alternativo Múltiple
+<a class=anchor href=#alternativo-m%c3%baltiple>#</a></h2><p>Es utilizada cuando existen <strong>más de dos elecciones</strong>. En lugar de utilizar estructuras alternativas simples o dobles anidadas, se recomienda utilizar esta estructura para mejorar la legibilidad del código cuando el número de alternativas es grande.</p><p>En esta estructura, se evalúa una variable que puede tomar de 1 a n valores diferentes. Dependiendo del valor que tome la variable, se ejecutará una de las n acciones correspondientes.</p><pre tabindex=0><code>ACCION EJEMPLO4 ES
+AMBIENTE
+    a,b,suma: entero
+PROCESO
+    ESC(“Ingrese el primer número”), LEER(a)
+    ESC (“Ingrese el segundo número”),LEER(b)
+    suma := a + b
+    SEGÚN suma HACER
+        =0 : ESC(“El resultado es igual a 0”)
+        &lt;0: ESC(“El resultado es menor a 0”)
+        &gt;0: ESC(“El resultado es mayor a 0”)
+    FIN_SEGUN
+FIN_ACCION
+</code></pre><p>Y esta también puede ser escrita usando los alternativos dobles vistos anteriormente:</p><pre tabindex=0><code>ACCION OtroMas ES
+AMBIENTE
+    a,b,suma:entero
+PROCESO
+    ESC(“Ingrese el primer número”), LEER(a)
+    ESC (“Ingrese el segundo número”),LEER(b)
+    suma := a + b
+    SI suma = 0 ENTONCES
+        ESC(“El resultado de la suma es 0”)
+    SINO:
+        SI suma &lt; 0 ENTONCES
+            ESC(“El resultado de la suma es menor a 0”)
+        SINO:
+            ESC(“El resultado de la suma es mayor a 0”)
+        FIN_SI
+    FIN_SI
+FIN_ACCION
+</code></pre></article><footer class=book-footer><div class="flex flex-wrap justify-between"></div><script>(function(){function e(e){const t=window.getSelection(),n=document.createRange();n.selectNodeContents(e),t.removeAllRanges(),t.addRange(n)}document.querySelectorAll("pre code").forEach(t=>{t.addEventListener("click",function(){if(window.getSelection().toString())return;e(t.parentElement),navigator.clipboard&&navigator.clipboard.writeText(t.parentElement.textContent)})})})()</script></footer><div class=book-comments></div><label for=menu-control class="hidden book-menu-overlay"></label></div><aside class=book-toc><div class=book-toc-content><nav id=TableOfContents><ul><li><a href=#alternativo-simple>Alternativo Simple</a></li><li><a href=#alternativo-doble>Alternativo Doble</a></li><li><a href=#alternativo-múltiple>Alternativo Múltiple</a></li></ul></nav></div></aside></main></body></html>
