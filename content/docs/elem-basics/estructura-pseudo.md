@@ -5,6 +5,8 @@ weight: 5
 
 # Estructura Básica Pseudocódigo
 
+![building](/aed-docs/images/building.jpg)
+
 Una vez tengas tu editor de código y estes medio familiarizado con los conceptos básicos de pseudocódigo y sus elementos, vas a estar listo para enfrentarte a los primeros ejercicios del práctica.
 
 Bueno, quizás no, te faltan las partes más importantes, la estructura que funje como esqueleto de tu algorítmo.

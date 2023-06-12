@@ -5,6 +5,8 @@ weight: 2
 
 # Estructuras de Datos Simples
 
+![recipe](/aed-docs/images/archiver.jpg)
+
 A la hora de elaborar un programa, **es necesario utilizar datos**. Por ejemplo, si queremos calcular el área de un rectángulo, debemos almacenar en la memoria de la computadora los valores de la base y la altura para luego multiplicarlos y obtener el área.
 
 Es importante recordar que hay una diferencia entre grabar los datos en la memoria y grabarlos en el disco duro. Cuando hablamos de grabar en memoria, nos referimos a almacenar los datos en la RAM. Para hacer esto, utilizamos dos elementos: variables y constantes. Estos nos permiten **guardar y manipular** los datos necesarios para realizar los cálculos en el programa.

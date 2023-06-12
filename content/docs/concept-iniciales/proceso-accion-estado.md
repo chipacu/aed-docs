@@ -3,6 +3,8 @@ title: Proceso, Acción y Estado
 weight: 1
 ---
 
+![recipe](/aed-docs/images/horse-move.jpg)
+
 # Proceso, Acción y Estado
 
 ## Proceso

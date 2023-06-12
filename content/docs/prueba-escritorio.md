@@ -5,6 +5,8 @@ weight: 6
 
 # Prueba de escritorio
 
+![barrow](/aed-docs/images/wheelbarrow.jpg)
+
 Es una forma de verificar la precisión y efectividad de un algoritmo mediante la **simulación manual de su ejecución** con **datos de entrada predefinidos**.
 
 La prueba de escritorio garantiza la calidad del programa, mejora la comprensión y promueve el crecimiento del programador.

@@ -5,6 +5,8 @@ weight: 3
 
 # Operadores y Operandos
 
+![recipe](/aed-docs/images/calculator.jpg)
+
 Los programas de computadora se basan en la realización de muchas operaciones aritméticas y matemáticas de diversas complejidades.
 
 {{< details title="Noun: Operador /operasao/" open=true >}}

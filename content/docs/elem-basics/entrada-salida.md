@@ -5,6 +5,8 @@ weight: 4
 
 # Entradas y Salida de Datos
 
+![recipe](/aed-docs/images/door.jpg)
+
 Son dos **acciones con nombre** que se emplean en los primeros algoritmos. La información que compartiré a continuación está basada en las presentaciones de las clases prácticas, así como en algunos recursos de las clases de teoría.
 
 ## Salida de datos

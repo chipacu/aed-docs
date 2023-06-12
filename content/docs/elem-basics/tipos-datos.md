@@ -5,6 +5,8 @@ weight: 1
 
 # Tipos de datos
 
+![recipe](/aed-docs/images/datatypes.jpg)
+
 En esta etapa inicial, nos enfocaremos en algunos tipos de datos fundamentales, esto solo por ahora, más adelante la cosa se complica.
 
 ## Numericos
