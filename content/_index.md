@@ -7,18 +7,18 @@ type: docs
 
 ![banner](/aed-docs/banner.jpg)
 
-Saludos, soy Daniel Tossutti, aunque me llaman chipaco. Si bien bromeo con que estos apuntes son de contrabando, quiero aclarar que su contenido es simplemente una recopilación e interpretación de los conceptos presentados en la cursada.
+Me presento, soy **Chipaco**, también conocido como Daniel Tossutti, y estoy emocionado de presentarles estos apuntes. Mi objetivo es **reunir** los diversos recursos de la materia de algoritmos en una sola estructura ordenada y visualmente ilustrada. Esto con el enfoque es **transformarlos** en una especie de historia en la que por medio del rol, uno se pueda ver inmerso.
 
-Nada, espero que te sirva, tiene una tematica medio de rol, arrancamos?
+Claro, esto parece difícil, y más considerando el tiempo limitado y que curso por primera vez. Hasta encima hay temas que no son fáciles de estructurar de este modo.
 
-Aventúrate en esta página de documentación, donde el conocimiento y la valentía se entrelazan. Aquí hallarás todo lo que necesitas para conquistar la materia de Algoritmos y alcanzar la grandeza.
+Qué decirles, no puedo asegurar la plenitud, pero al menos el contenido expuesto quedará como material complementario. Nada más, estoy decidido a trabajar lo mejor posible. ¿Te gustaría darme una oportunidad y unirte a esta aventura?
 
 {{< hint warning >}}
-**⚠️ ¡Tener en cuenta!**  
-Este sítio **no se encuentra** relacionado a la cátedra, si bien su contenido está nutrido por ella, este siempre va a ser una fuente de información terciaria, burdamente conocido como "Radio Pasillo 98.3mhz".
+**⚠️ ¡Tené en cuenta!**  
+Este sítio **no se encuentra** relacionado a la cátedra, si bien se nutre de ella, siempre se va a considerar como una fuente de información terciaria, comúnmente conocida como "Radio Pasillo 98.3mhz".
 {{< /hint >}}
 
-¡Explora la barra lateral izquierda para encontrar las secciones del sitio! Además, en cada página tendrás una tabla de contenido a la derecha para desplazarte más rápido.
+¡Te invito a explorar la barra lateral izquierda para encontrar las secciones del sitio! Además, en cada página tendrás una tabla de contenido a la derecha para desplazarte más rápido.
 
 ## Información provechosa
 
@@ -30,9 +30,9 @@ En esta sección, podrás obtener detalles importantes sobre nuestra materia:
 
 ## Resumen principal
 
-El resumen del material teórico del campus en sus seis tomos combina presentaciones de las clases y material de las prácticas, muestra trucos útiles, parcha varios agujeros no explicados, y va desde una introducción a los algoritmos hasta los misterios de los archivos indexados.
+El resumen del material teórico del campus en sus seis tomos, combina presentaciones de las clases y el material de las prácticas, muestra trucos útiles, parcha varios agujeros no explicados, y va desde una introducción a los algoritmos hasta los misterios de los archivos indexados.
 
-## Fragmentos de Código (falta)
+## Fragmentos de Código (en proceso)
 
 En estos resúmenes épicos, se despliegan microartículos cargados de ideas prácticas para vencer a los laboratorios. A través de ellos, desvelarás los secretos ocultos de la teoría y aprenderás a aplicarla con maestría.
 
@@ -42,16 +42,26 @@ En estos resúmenes épicos, se despliegan microartículos cargados de ideas pr�
 
 Nuestro blog será el faro de la actualización constante, donde hallarás anuncios sobre el desarrollo del sítio.
 
+Habrán muchos cambios seguramente...
+
+Por el momento no está ni habilitado...
+
+Pero cuando la página se lance al público, habilitarlo será mi prioridad.
+
 <--->
 
-## ¡Llamado a los Valientes!
+## ¡Este sítio está vivo!
 
-¡Tu valiosa contribución es esperada en mi sagrado GitHub! Atrévete a unirte a esta noble causa y dejar tu huella en el camino del conocimiento.
+¡Tu valiosa contribución es esperada en el sagrado GitHub! Atrévete a unirte a esta noble causa y dejar tu huella en el camino del conocimiento.
+
+Hay detalles más técnicos sobre las tecnología empleadas para hacer el sítio.
+
+Y si no querés usar estas herramientas, pero tenés una sugerencia, podes contactarme tranquilamente.
 
 {{< /columns >}}
 
-## ¡Comienza la Gran Odisea!
+## ¡Considerate un beta-tester!
 
-Mi corazón rebosa de emoción al embarcarnos en esta aventura juntos. Explora sin temor todas las secciones y descubre todo lo que necesitas. Si alguna pregunta o sugerencia aflora, no dudes en contactarme. ¡Juntos desafiamos al destino!
+Seguramente el contenido del momento no esté tan actualizado o pulido como esperabas, quizás falten temas, hayan errores y ese tipo de cosas. Voy a tratar de maniobrarlo lo mejor posible con la información que tengo.
 
 ¡Que la fortuna sea tu aliada en este viaje épico!

@@ -11,11 +11,9 @@ En esta etapa inicial, nos enfocaremos en algunos tipos de datos fundamentales, 
 
 ## Numericos
 
-Para iniciar con esta sección, un chiste...
+Iniciaremos contando un chiste... se dice que, *si Dios es Real, es porque no lo declararon como Entero.*
 
-    🤡 "Dios es real, a menos que sea declarado entero."
-
-Ya está loco, me voy al ...
+Ya está loco, los perdí para siempre... estos tipos de datos representan números, y más abajo veremos porqué se los categorizan en dos partes.
 
 ### Enteros
 
@@ -43,7 +41,7 @@ En la mayoría de los lenguajes de programación, es necesario utilizar el punto
 
 {{< hint info >}}
 **🤔 ¿Por qué el énfasis en diferenciar los datos numéricos?**  
-Más adelante, nos encontraremos con operadores específicos que diferencian entre la division entera y real. Esto probablemente se deba a que las computadoras a bajo nivel sean malas a la hora de dividir.
+Más adelante, nos encontraremos con operadores específicos que diferencian entre la division entera y real. Esto probablemente se deba a que las computadoras a bajo nivel sean malas a la hora de trabajar con la matemática contínua (opuesta a la discreta).
 {{< /hint >}}
 
 ## Alfanumericos
